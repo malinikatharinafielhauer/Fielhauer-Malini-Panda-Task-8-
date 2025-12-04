@@ -1,0 +1,43 @@
+PandA IR — Part 6 (PoetryDB + Caching + Timing)
+Type :help for commands. Type :quit to exit.
+Retrieving sonnets from PoetryDB...
+Loading sonnet took: 1578.980 [ms]
+Loaded 154 sonnets.
+> summer love
+6 out of 154 sonnets contain "summer love". Your query took 9.15ms.
+
+[1/154] Sonnet 5: Those hours, that with gentle work did frame
+  [ 2] The lovely gaze where every eye doth dwell,
+  [ 5] For never-resting time leads summer on
+  [ 9] Then were not summer's distillation left,
+
+[2/154] Sonnet 18: Shall I compare thee to a summer's day?
+  [ 1] Shall I compare thee to a summer's day?
+  [ 2] Thou art more lovely and more temperate:
+  [ 4] And summer's lease hath all too short a date:
+  [ 9] But thy eternal summer shall not fade,
+
+[3/154] Sonnet 54: O! how much more doth beauty beauteous seem
+  [ 8] When summer's breath their masked buds discloses:
+  [13]   And so of you, beauteous and lovely youth,
+
+[4/154] Sonnet 56: Sweet love, renew thy force; be it not said
+  [ 1] Sweet love, renew thy force; be it not said
+  [ 5] So, love, be thou, although to-day thou fill
+  [ 8] The spirit of love, with a perpetual dulness.
+  [12] Return of love, more blest may be the view;
+  [14]   Makes summer's welcome, thrice more wished, more rare.
+
+[5/154] Sonnet 65: Since brass, nor stone, nor earth, nor boundless sea
+  [ 5] O! how shall summer's honey breath hold out,
+  [14]   That in black ink my love may still shine bright.
+
+[6/154] Sonnet 102: My love is strengthen'd, though more weak in seeming
+  [ 1] My love is strengthen'd, though more weak in seeming;
+  [ 2] I love not less, though less the show appear;
+  [ 3] That love is merchandiz'd, whose rich esteeming,
+  [ 5] Our love was new, and then but in the spring,
+  [ 7] As Philomel in summer's front doth sing,
+  [ 9] Not that the summer is less pleasant now
+> :quit
+Bye.
