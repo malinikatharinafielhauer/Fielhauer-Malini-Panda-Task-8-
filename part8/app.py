@@ -149,7 +149,6 @@ def fetch_sonnets_from_api() -> List[Sonnet]:
 
     return sonnets
 
-
 def load_sonnets() -> List[Sonnet]:
     """
     Load Shakespeare's sonnets with caching.
