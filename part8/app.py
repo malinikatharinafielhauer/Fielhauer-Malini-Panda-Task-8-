@@ -102,7 +102,7 @@ def print_results(
             ansi_highlight(r.title, r.title_spans)
             if highlight
             else r.title
-        )
+        )     
         print(f"\n[{idx}/{total_docs}] {title_line}")
         for lm in r.line_matches:
             line_out = (
