@@ -18,7 +18,7 @@ import urllib.error
 from .constants import BANNER, HELP, POETRYDB_URL, CACHE_FILENAME
 from .models import Sonnet, SearchResult, Configuration
 
-
+### - change for github)
 def print_results(
     query: str,
     results: List[SearchResult],

@@ -150,3 +150,4 @@ class SearchResult:
         for lm in self.line_matches:
             line_out = self.ansi_highlight(lm.text, lm.spans) if highlight else lm.text
             print(f"  [{lm.line_no:2}] {line_out}")
+##-change for comitting
