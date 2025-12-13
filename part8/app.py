@@ -207,6 +207,5 @@ def main() -> None:
 
         elapsed_ms = (time.perf_counter() - start) * 1000
         print_results(raw, combined_results, config.highlight, elapsed_ms)
-
 if __name__ == "__main__":
     main()
